@@ -1,2 +1,11 @@
+Spring:
+    data:
+        mongodb:
+            host: localhost
+            port: 27017
+            database: dutchers
+
+
+
 server:
-    port: 8083
+    port: 8084
